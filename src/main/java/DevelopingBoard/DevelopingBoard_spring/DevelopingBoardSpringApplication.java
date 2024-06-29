@@ -9,5 +9,6 @@ public class DevelopingBoardSpringApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DevelopingBoardSpringApplication.class, args);
 	}
+	int a = 10;
 
 }
